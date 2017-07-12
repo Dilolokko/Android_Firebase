@@ -1,2 +1,3 @@
 
-## Android Studio - Java ve Firebase kullanarak yapmış olduğumuz kafe otomasyonu uygulaması
+## Android Studio - Java ve Firebase 
+###  Kullanarak yapmış olduğumuz Kafe Otomasyonu uygulaması
